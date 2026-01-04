@@ -20,14 +20,14 @@ body {
 }
 
 .sidebar {
-  background-color: #1e153a93;
+  background-color: #2f215a93;
   height: 90vh;
-  border: 1px solid #39f;
+  border: 1px solid rgb(35, 73, 111);
   border-radius: 16px;
 }
 
 .main-content {
-  background-color: #1e153a93;
-  border: 1px solid #39f;
+  background-color: #2f215a93;
+  border: 1px solid rgb(35, 73, 111);
   border-radius: 16px;
 }
