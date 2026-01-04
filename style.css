@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background-color: #150f2d;
+  background-color: #010313;
   font-family: sans-serif;
   color: #757575;
   line-height: 1.6;
@@ -20,14 +20,14 @@ body {
 }
 
 .sidebar {
-  background-color: #2f215a93;
+  background-color: #2b1b42;
   height: 90vh;
   border: 1px solid rgb(35, 73, 111);
   border-radius: 16px;
 }
 
 .main-content {
-  background-color: #2f215a93;
+  background-color: #2b1b42;
   border: 1px solid rgb(35, 73, 111);
   border-radius: 16px;
 }
