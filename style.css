@@ -50,7 +50,7 @@ body {
 }
 
 .profile p {
-  background: linear-gradient(136.85deg, #f968ef -15.82%, #6c7ffa 99.57%);
+  background: linear-gradient(136.85deg, #6c7ffa -15.82%, #f968ef 99.57%);
   text-transform: capitalize;
   -webkit-text-fill-color: transparent;
   background-clip: text;
